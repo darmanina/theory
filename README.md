@@ -17,3 +17,5 @@
 
 ### Task 3 
 
+[HW 1. Task 3. Mанина_Анализ требований](https://docs.google.com/spreadsheets/d/1I1si9RDAFOO5drrqwxlI-28UxR0JVGQTQhIf0Z_3wi0/edit?gid=0#gid=0)
+
